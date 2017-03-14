@@ -13,8 +13,11 @@ public class Main {
         // Zadanie10 zadanie10 = new Zadanie10();
         //System.out.println("Max to: " + zadanie10.znajdzMaksimum(15,25));
 
-        Zadanie11 zadanie11 = new Zadanie11();
-        System.out.println("Ilosc dzielnikow: " + zadanie11.pokazDzielniki(124));
+       // Zadanie11 zadanie11 = new Zadanie11();
+       // System.out.println("Ilosc dzielnikow: " + zadanie11.pokazDzielniki(124));
+
+        Zadanie12 zadanie12 = new Zadanie12();
+        System.out.println("Liczba z najwieksza iloscia dzielnikow to: " + zadanie12.najwiekszaIloscDziel());
 
     }
 }

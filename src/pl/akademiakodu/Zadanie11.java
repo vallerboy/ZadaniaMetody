@@ -5,7 +5,7 @@ package pl.akademiakodu;
  */
 public class Zadanie11 {
 
-    public int pokazDzielniki(int a){
+    public int iloscDzielnikow(int a){
         int dzielniki = 0;
         for(int i = 1; i <= a; i++) {
              if(a % i == 0) {
