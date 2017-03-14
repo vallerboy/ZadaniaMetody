@@ -10,8 +10,11 @@ public class Main {
         // Zadanie9 zadanie9 = new Zadanie9();
         // System.out.println(zadanie9.jestSzescianem(8));
 
-        Zadanie10 zadanie10 = new Zadanie10();
-        System.out.println("Max to: " + zadanie10.znajdzMaksimum(15,25));
+        // Zadanie10 zadanie10 = new Zadanie10();
+        //System.out.println("Max to: " + zadanie10.znajdzMaksimum(15,25));
+
+        Zadanie11 zadanie11 = new Zadanie11();
+        System.out.println("Ilosc dzielnikow: " + zadanie11.pokazDzielniki(124));
 
     }
 }
