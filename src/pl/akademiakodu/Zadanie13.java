@@ -9,6 +9,7 @@ public class Zadanie13 {
          return Math.pow(a, n);
      }
 
+
      public int potega1(int a, int n) {
          int wynik = 1;
          for(int i = 1; i <= n; i++) {

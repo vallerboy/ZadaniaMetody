@@ -19,9 +19,12 @@ public class Main {
        // Zadanie12 zadanie12 = new Zadanie12();
        // System.out.println("Liczba z najwieksza iloscia dzielnikow to: " + zadanie12.najwiekszaIloscDziel());
 
-        Zadanie13 zadanie13 = new Zadanie13();
-        System.out.println("Metoda1: " + zadanie13.potega(3,3) + "\nMetoda2: " +
-        zadanie13.potega1(3,3));
+       // Zadanie13 zadanie13 = new Zadanie13();
+       // System.out.println("Metoda1: " + zadanie13.potega(3,3) + "\nMetoda2: " +
+       // zadanie13.potega1(3,3));
+
+        Zadanie14 zadanie14 = new Zadanie14();
+        System.out.println("NWD to : " + zadanie14.NWD(16,24));
 
     }
 }
